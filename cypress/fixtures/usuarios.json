@@ -1,0 +1,22 @@
+[
+    {
+    "email": "harrypotter@alura.com.br",
+    "fullName": "Harry Potter",
+    "userName": "harry",
+    "password": "hp123456"
+    
+    },
+    {
+    "email": "hermione@alura.com.br",
+    "fullName": "Hermione",
+    "userName": "hermione",
+    "password": "hp123456"
+    },
+    {
+    "email": "hagrid@alura.com.br",
+    "fullName": "Hagrid",
+    "userName": "hagrid",
+    "password": "hp123456"
+    }
+
+]
